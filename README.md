@@ -83,6 +83,27 @@ streamlit run src/app.py
 ✅ Responsive layout  
 
 ---
+## 📸 Screenshots
+
+### Homepage
+
+![Homepage](screenshots/home.png)
+
+### Recommendations
+
+![Recommendations](screenshots/recommendations.png)
+
+### Trailer Integration
+
+![Trailer](screenshots/trailer.png)
+
+### Netflix Dark Theme
+
+![Dark Theme](screenshots/dark_theme.png)
+
+### Trending Movies
+
+![Trending Movies](screenshots/trending.png)
 
 ## 👨‍💻 Author
 
